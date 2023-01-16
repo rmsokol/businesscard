@@ -1,12 +1,14 @@
 body {
     margin: 20px;
     font-family: Courier New, Courier, monospace;
+    background-color: #cce3de;
     
 }
 
 .avatar {
     width: 150px;
-    border: 1px dotted #c2ae81;
+    border: 2px solid #c2ae81;
+    border-radius 15px;
 }
 
 .card {
@@ -24,19 +26,8 @@ body {
 }
 
 h3:hover {
-    background-color: #909da5;
+    background-color: #be95c4;
     border-radius: 8px;
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
