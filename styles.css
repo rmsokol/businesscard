@@ -18,11 +18,11 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background-image: linear-gradient(#6d574c,#efd780) ;
+    background-image: linear-gradient(#481639,#F569CB) ;
     color: #131112;
     border: 10px inset #125aac;
     border-radius: 15px;
-    box-shadow: 5px 5px #888da7 ;
+    box-shadow: 5px 5px #481639 ;
 }
 
 h3:hover {
