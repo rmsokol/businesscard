@@ -1,7 +1,7 @@
 body {
     margin: 20px;
     font-family: Courier New, Courier, monospace;
-    background-image: "hin-bong-yeung-jF946mh5QrA-unsplash.jpg";
+    background-image: url("hin-bong-yeung-jF946mh5QrA-unsplash.jpg");
     background-size: cover;
 }
 
