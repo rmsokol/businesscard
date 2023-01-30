@@ -31,6 +31,7 @@ h3:hover {
 }
 
 #resume {
+    display: flex;
     margin: auto;
     justify-content: center;
     align-items: center;
