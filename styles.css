@@ -31,9 +31,10 @@ h3:hover {
 }
 
 .resume {
+    margin: auto;
     justify-content: center;
+    align-items: center;
     padding: 25px;
-    margin: 10px;
     border-radius: 5px;
 }
 
