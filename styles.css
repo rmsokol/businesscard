@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background-image: linear-gradient(#481639,#F569CB) ;
+    background-image: linear-gradient(#F569CB,#481639) ;
     color: #131112;
     border: 10px inset #125aac;
     border-radius: 15px;
@@ -33,7 +33,7 @@ h3:hover {
 #resume {
     display: flex;
     margin: auto;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 25px;
     border-radius: 5px;
