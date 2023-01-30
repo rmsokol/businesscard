@@ -30,4 +30,10 @@ h3:hover {
     border-radius: 8px;
 }
 
+.resume {
+    justify-content: center;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 5px;
+}
 
